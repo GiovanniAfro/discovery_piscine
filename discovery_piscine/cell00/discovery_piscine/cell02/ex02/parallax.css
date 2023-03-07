@@ -1,0 +1,42 @@
+body
+ {
+    margin: 0;
+ }
+.img1
+ {
+    background-image: url(https://www.hdwallpapers.in/download/sandy_beach_lagoon_tropical_landscape_shore_tropics_4k_hd-3840x2160.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+ }
+  
+  .img2
+ {
+    background-image: url(https://images7.alphacoders.com/546/546435.jpg);
+    background-attachment: fixed;
+    background-position-y: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+ }
+ .blackbanner
+ {
+    background-color: black;
+    height: 500px;
+    position: relative;
+ }
+
+ span
+ {
+    position: absolute;
+    color: white;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: small;
+ }
+ 
